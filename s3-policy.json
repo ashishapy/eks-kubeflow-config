@@ -1,0 +1,14 @@
+{
+    "Policy": {
+        "PolicyName": "mlops-s3-access",
+        "PolicyId": "ANPAUMV4Y56KCG6GRGDD3",
+        "Arn": "arn:aws:iam::302117351316:policy/mlops-s3-access",
+        "Path": "/",
+        "DefaultVersionId": "v1",
+        "AttachmentCount": 0,
+        "PermissionsBoundaryUsageCount": 0,
+        "IsAttachable": true,
+        "CreateDate": "2020-08-20T18:14:09Z",
+        "UpdateDate": "2020-08-20T18:14:09Z"
+    }
+}

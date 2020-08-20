@@ -1,0 +1,14 @@
+{
+    "Policy": {
+        "PolicyName": "mlops-emr-access",
+        "PolicyId": "ANPAUMV4Y56KLK554QTR6",
+        "Arn": "arn:aws:iam::302117351316:policy/mlops-emr-access",
+        "Path": "/",
+        "DefaultVersionId": "v1",
+        "AttachmentCount": 0,
+        "PermissionsBoundaryUsageCount": 0,
+        "IsAttachable": true,
+        "CreateDate": "2020-08-20T18:14:10Z",
+        "UpdateDate": "2020-08-20T18:14:10Z"
+    }
+}
