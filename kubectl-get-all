@@ -1,4 +1,4 @@
-TeamRole:~/environment $ kubectl get all,ing -A
+$ kubectl get all,ing -A
 NAMESPACE              NAME                                                               READY   STATUS      RESTARTS   AGE
 amazon-cloudwatch      pod/cloudwatch-agent-4jf58                                         1/1     Running     0          103m
 amazon-cloudwatch      pod/cloudwatch-agent-86kn4                                         1/1     Running     0          103m
